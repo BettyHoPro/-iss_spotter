@@ -58,4 +58,4 @@ const fetchMyIP = function(callback) {
   });
 };
 
-module.exports = { nextISSTimesForMyLocation };
+module.exports = { nextISSTimesForMyLocation};
